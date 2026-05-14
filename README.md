@@ -1,3 +1,6 @@
+
+PROJECT REPORT: SOC_Platform_Report_Azeem.pdf
+
 # SOC Detection & Threat Hunting Platform
 
 A full-stack Security Operations Center (SOC) dashboard for real-time alert triage, MITRE ATT&CK mapping, IP risk scoring, and threat hunting.
