@@ -1,5 +1,8 @@
 
-PROJECT REPORT: SOC_Platform_Report_Azeem.pdf
+## Project Report
+
+[📄 View Full Project Report](./SOC_Platform_Report_Azeem.pdf)
+
 
 # SOC Detection & Threat Hunting Platform
 
