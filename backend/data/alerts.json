@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ALT-001",
+    "timestamp": "2026-05-13T08:14:32Z",
+    "source_ip": "192.168.1.105",
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "tactic": "Credential Access",
+    "severity": "High",
+    "description": "22 failed SSH login attempts in 60 seconds",
+    "log_source": "auth.log",
+    "status": "open"
+  },
+  {
+    "id": "ALT-002",
+    "timestamp": "2026-05-13T08:17:10Z",
+    "source_ip": "10.0.0.88",
+    "technique_id": "T1046",
+    "technique_name": "Network Service Scanning",
+    "tactic": "Discovery",
+    "severity": "Medium",
+    "description": "Port scan detected across 254 hosts",
+    "log_source": "syslog",
+    "status": "open"
+  },
+  {
+    "id": "ALT-003",
+    "timestamp": "2026-05-13T08:21:55Z",
+    "source_ip": "10.0.0.88",
+    "technique_id": "T1190",
+    "technique_name": "Exploit Public-Facing Application",
+    "tactic": "Initial Access",
+    "severity": "Critical",
+    "description": "Gobuster directory enumeration detected on port 80",
+    "log_source": "syslog",
+    "status": "open"
+  },
+  {
+    "id": "ALT-004",
+    "timestamp": "2026-05-13T09:02:11Z",
+    "source_ip": "172.16.0.44",
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "tactic": "Credential Access",
+    "severity": "High",
+    "description": "35 failed SSH login attempts from new IP",
+    "log_source": "auth.log",
+    "status": "investigating"
+  },
+  {
+    "id": "ALT-005",
+    "timestamp": "2026-05-13T09:45:00Z",
+    "source_ip": "192.168.1.105",
+    "technique_id": "T1078",
+    "technique_name": "Valid Accounts",
+    "tactic": "Defense Evasion",
+    "severity": "Critical",
+    "description": "Successful login after brute force from same IP",
+    "log_source": "auth.log",
+    "status": "open"
+  }
+]
