@@ -96,6 +96,11 @@ Open `http://localhost:3000`
 ## Screenshots
 
 > Dashboard with MITRE ATT&CK heatmap, IP risk scores, and threat hunt panel
+<img width="1907" height="418" alt="heat map nd ip risk score" src="https://github.com/user-attachments/assets/08eec158-8af8-40db-802d-dd507ba9dd38" />
+<img width="1868" height="232" alt="live alert feed" src="https://github.com/user-attachments/assets/a850d196-b73d-466d-8848-4d0e5c889f6b" />
+<img width="1887" height="278" alt="threat hunt panel" src="https://github.com/user-attachments/assets/5a5e952d-5566-4bfa-a180-b450d6bed356" />
+
+
 
 ---
 
